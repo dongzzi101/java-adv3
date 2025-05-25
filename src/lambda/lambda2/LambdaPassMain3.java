@@ -1,6 +1,6 @@
-package lamda.lambda2;
+package lambda.lambda2;
 
-import lamda.MyFunction;
+import lambda.MyFunction;
 
 // 3. 람다반환
 public class LambdaPassMain3 {

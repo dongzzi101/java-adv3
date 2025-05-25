@@ -1,6 +1,6 @@
-package lamda.lamda1;
+package lambda.lambda1;
 
-import lamda.MyFunction;
+import lambda.MyFunction;
 
 public class LambdaSimple1 {
     public static void main(String[] args) {

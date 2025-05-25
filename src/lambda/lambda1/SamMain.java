@@ -1,4 +1,4 @@
-package lamda.lamda1;
+package lambda.lambda1;
 
 public class SamMain {
 

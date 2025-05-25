@@ -1,6 +1,6 @@
-package lamda.lambda2;
+package lambda.lambda2;
 
-import lamda.MyFunction;
+import lambda.MyFunction;
 
 // 2. 람다 -> 메서드에 전달
 public class LambdaPassMain2 {

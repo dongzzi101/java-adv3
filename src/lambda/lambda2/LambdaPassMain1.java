@@ -1,6 +1,6 @@
-package lamda.lambda2;
+package lambda.lambda2;
 
-import lamda.MyFunction;
+import lambda.MyFunction;
 
 // 1. 람다를 변수에 대입하기
 public class LambdaPassMain1 {
